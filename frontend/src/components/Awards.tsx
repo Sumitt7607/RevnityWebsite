@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import professional from "@/assets/professional.jpg";
-import singleBrand from "@/assets/single.png";
+import singleBrand from "@/assets/Single.png";
 
 export function Awards() {
   return (
